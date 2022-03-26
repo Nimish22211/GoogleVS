@@ -1,7 +1,7 @@
 {
 	"name": "googlevs",
-	"displayName": "",
-	"publisher": "Nimish",
+	"displayName": "GoogleVS",
+	"publisher": "NimishBandha",
 	"description": "its a extenstion to use google search inside vs code. Now you won't have to move out of VScode.",
 	"version": "0.0.1",
 	"engines": {
@@ -61,6 +61,11 @@
 		"typescript": "^4.5.5"
 	},
 	"dependencies": {
-		"node-fetch": "^3.2.3"
+		"node-fetch": "^3.2.3",
+		"vsce": "^2.7.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Nimish22211/GoogleVS.git"
 	}
 }
