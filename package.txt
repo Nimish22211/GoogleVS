@@ -1,0 +1,9 @@
+"viewsContainers": {
+			"panel": [
+				{
+					"id": "googlevs",
+					"title": "Google VS",
+					"icon": "media/globe.svg"
+				}
+			]
+		}
